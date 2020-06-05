@@ -19,7 +19,7 @@ $ ./build/ava --public-ip=127.0.0.1 --http-port=9650 --staking-port=9651 --db-di
 
 After running the gecko node, you should run Tava initialize code at https://github.com/t-ava/pyslopes/blob/master/sampleCodes/initTAVA.py.
 
-See [Pyslopes](https://github.com/t-ava/pyslopes).
+See [Pyslopes](https://github.com/t-ava/pyslopes) for more details.
 
 ```console
 $ git clone https://github.com/t-ava/pyslopes.git
