@@ -2,6 +2,12 @@
 
 https://github.com/t-ava/citibike-DNN
 
+# Install requirements
+
+```
+pip install -r requirements.txt
+```
+
 # Training model
 
 If you want to train model, set the `training` param in [`training.py`](https://github.com/t-ava/citibike-DNN/blob/master/training.py#L72) like below:
