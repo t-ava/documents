@@ -1,12 +1,14 @@
 # Training model
 
-Set training param. in [`training.py`](https://github.com/t-ava/citibike-DNN/blob/master/training.py#L72) like below:
+If you want to train model, set the `training` param in [`training.py`](https://github.com/t-ava/citibike-DNN/blob/master/training.py#L72) like below:
 
 ```python
 training = True
 ```
 
-Run `python training.py` .
+* Default value is False to use pre-trained weights.
+
+Then, run `python training.py` .
 
 * Inputs: month, weekday, hour, station_id.
 * Outputs: `pred` . number of devices in the station.
