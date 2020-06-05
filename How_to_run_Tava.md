@@ -17,8 +17,6 @@ $ ./scripts/build.sh
 $ ./build/ava --public-ip=127.0.0.1 --http-port=9650 --staking-port=9651 --db-dir=db/node1 --staking-tls-enabled=false --snow-sample-size=1 --snow-quorum-size=1 --network-id=local
 ```
 
-
-
 ## Run Tava initialize script
 
 After running the gecko node, you should run Tava initialize code at https://github.com/t-ava/pyslopes/blob/master/sampleCodes/initTAVA.py.
