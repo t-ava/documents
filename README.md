@@ -16,8 +16,9 @@
 
 ### Run Frontend
 
-1. [Install packages](./frontend.md#install-packages)
-2. [Run frontend server](./frontend.md#run-server)
+1. [Set hardcoded factors](./frontend.md#set-hardcoded-factors)
+2. [Install packages](./frontend.md#install-packages)
+3. [Run frontend server](./frontend.md#run-server)
 
 See details in each repository: [Gecko](https://github.com/t-ava/gecko), [Pyslopes](https://github.com/t-ava/pyslopes), [DNN-server](https://github.com/t-ava/citibike-DNN), and [frontend](https://github.com/t-ava/tava-frontend).
 
