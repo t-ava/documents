@@ -5,7 +5,7 @@
 
 ### Set gecko node
 
-* [`txs.js`](https://github.com/t-ava/tava-frontend/blob/66a17e550e5ca30b5047898738a95dd6d5a34314/frontend/public/js/txs.js#L15).
+in [`txs.js`](https://github.com/t-ava/tava-frontend/blob/66a17e550e5ca30b5047898738a95dd6d5a34314/frontend/public/js/txs.js#L15).
 
 * For example: 
 ```javascript
@@ -14,7 +14,7 @@ const NODE = 'http://satoshi.snu.ac.kr:9650/ext/bc/X';
 
 ### Set DNN-server
 
-* [`app.js`](https://github.com/t-ava/tava-frontend/blob/66a17e550e5ca30b5047898738a95dd6d5a34314/frontend/public/js/app.js#L17).
+in [`app.js`](https://github.com/t-ava/tava-frontend/blob/66a17e550e5ca30b5047898738a95dd6d5a34314/frontend/public/js/app.js#L17).
 
 * For example: 
 ```javascript
