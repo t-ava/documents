@@ -11,4 +11,4 @@ npm install
 node server.js
 ```
 
-Port number: 8084
+Port number: 8084 as default.
