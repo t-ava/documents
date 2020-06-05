@@ -1,7 +1,3 @@
-# Repository
-
-https://github.com/t-ava/citibike-DNN
-
 # Install requirements
 
 ```
