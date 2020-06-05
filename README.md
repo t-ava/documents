@@ -1,5 +1,7 @@
 # How to run Tava
 
+## Settings
+
 ### Set Gecko
 1. [Install & Run Gecko](./gecko.md#install--run-gecko)
 2. [Run Tava initialize script](./gecko.md#run-tava-initialize-script)
@@ -11,6 +13,8 @@
 ### Set Frontend
 1. [Install packages](./frontend.md#install-packages)
 2. [Run frontend server](./frontend.md#run-server)
+
+## TBA
 
 ---
 
