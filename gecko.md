@@ -8,7 +8,7 @@ $ cd $GOPATH/src/github.com/ava-labs/gecko
 ```
 
 Until the Pull Request is accepted, you must change one file: vms/avm/service.go
-(described in https://github.com/ava-labs/gecko/pull/179)
+* described in https://github.com/ava-labs/gecko/pull/179
 
 ``` console
 $ ./scripts/build.sh
@@ -17,7 +17,7 @@ $ ./build/ava --public-ip=127.0.0.1 --http-port=9650 --staking-port=9651 --db-di
 
 # Run Tava initialize script
 
-After running the gecko node, you should run Tava initialize code at https://github.com/t-ava/pyslopes/blob/master/sampleCodes/initTAVA.py.
+After running the gecko node, you should run Tava initialize code at [`initTAVA.py`](https://github.com/t-ava/pyslopes/blob/master/sampleCodes/initTAVA.py).
 
 See [Pyslopes](https://github.com/t-ava/pyslopes) for more details.
 
@@ -26,7 +26,8 @@ $ git clone https://github.com/t-ava/pyslopes.git
 $ cd sampleCodes
 ```
 
-you must set these variables properly in `initTAVA.py` script.
+You must set these variables properly in `initTAVA.py` script.
+
 ```python
 LIB_PATH = path to pyslopes codes
 API_NODE_IP = the gecko node's IP address
