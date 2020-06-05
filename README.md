@@ -3,7 +3,10 @@
 ### Run Gecko
 
 1. [Install & Run Gecko](./gecko.md#install--run-gecko)
-2. [Run Tava initialize script](./gecko.md#run-tava-initialize-script)
+
+### Initialize Tava
+
+1. [Run Tava initialize script](./gecko.md#run-tava-initialize-script)
 
 ### Run DNN-server
 
@@ -16,7 +19,7 @@
 1. [Install packages](./frontend.md#install-packages)
 2. [Run frontend server](./frontend.md#run-server)
 
-See details in each repository: [Gecko](https://github.com/t-ava/gecko), [DNN-server](https://github.com/t-ava/citibike-DNN), and [frontend](https://github.com/t-ava/tava-frontend).
+See details in each repository: [Gecko](https://github.com/t-ava/gecko), [Pyslopes](https://github.com/t-ava/pyslopes), [DNN-server](https://github.com/t-ava/citibike-DNN), and [frontend](https://github.com/t-ava/tava-frontend).
 
 ## Demo
 
