@@ -10,3 +10,5 @@ npm install
 ```
 node server.js
 ```
+
+Port number: 8084
