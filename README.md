@@ -9,7 +9,8 @@
 2. [Run inference server](./DNN-server.md#run-inference-server)
 
 ### Set Frontend
-TBA
+1. [Install packages](./frontend.md#install-packages)
+2. [Run frontend server](./frontend.md#run-server)
 
 ---
 
