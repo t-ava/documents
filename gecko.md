@@ -26,7 +26,7 @@ $ git clone https://github.com/t-ava/pyslopes.git
 $ cd sampleCodes
 ```
 
-you must set these variables properly in initTAVA.py script.
+you must set these variables properly in `initTAVA.py` script.
 ```python
 LIB_PATH = path to pyslopes codes
 API_NODE_IP = the gecko node's IP address
