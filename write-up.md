@@ -14,7 +14,7 @@
 
  We resort to two key technologies for implementing our main idea: machine learning and blockchain. Firstly, we design a machine learning model that predicts the future vehicle availability at each vehicle dock every hour. The role of this model is to compute the incentive of each vehicle ride based on that prediction, in such a way that the global vehicle availability is maximized. Below is a diagram of our machine learning model.
 
-<img src="C:\Users\yyh72\AppData\Roaming\Typora\typora-user-images\image-20200605193714431.png" width="400px"/>
+<img src="./fig1.png" width="400px"/>
 
  As shown in the diagram, our model takes a station id as well as the current time information as input, and outputs the number of expected available vehicles at that dock during the next one hour. As an initial prototype, we built a neural network and trained it with the citibike 2019 data. Our model predicts the number of available bicycles with MAE (mean absolute error) less than 2. ([source code](https://github.com/t-ava/citibike-DNN))
 
@@ -22,7 +22,7 @@
 
  The second infrastructure is the AVA blockchain. Our application server interacts with AVA for the payment of a vehicle ride and also for receiving the reward for that ride. Thanks to the high performance of AVA and its avalanche protocol, AVA is highly suitable for processing micropayment transactions initiated by hundreds of thousands of mobility users quickly and efficiently. We thus resort to the smart assets of AVA blockchain for implementing vehicle rentals as transactions on the blockchain. Below is a sketch of our platform’s micropayment transaction with the AVA blockchain.
 
-<img src="C:\Users\yyh72\AppData\Roaming\Typora\typora-user-images\image-20200605193928080.png" width="400px" />
+<img src="./fig2.png" width="400px" />
 
  When a user connects to the TAVA platform, she delegates the rights on her AVA account to our app server after which the server makes blockchain transactions on her behalf. On a user's request for a vehicle rent, the server makes transactions with an AVA node for micro-payment and receiving rewards for the vehicle ride. We implemented our prototype for a Gecko node, and have suggested some [feature upgrades]((https://github.com/ava-labs/gecko/pull/179)) to the gecko community during our implementation.
 
