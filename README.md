@@ -59,3 +59,7 @@ As an overall evaluation of our platform, we model the TAVA as a system with a s
 Based on this simulation results, we can choose appropriate incentive policies for a new mobility operator that wants to join the TAVA platform.
 
 Evaluation with our open-source [prototype simulator](https://github.com/t-ava/tava-simulator) shows that TAVA is capable of serving multiple mobility operators as client companies. 
+
+# Contact
+
+:envelope: lukepark@altair.snu.ac.kr
