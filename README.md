@@ -1,5 +1,7 @@
 # TAVA: Smart Shared Mobility
 
+Refer to [`How-to-run.md`](./How-to-run.md) for running TAVA.
+
 ## Motivation
 
 Vehicle redistribution is a serious challenge for micro-mobility operators, e.g. city governments that run public bicycles or scooter-sharing startups. Unfairly distributed vehicles can greatly decrease availability and sustainability of the service vehicles.
