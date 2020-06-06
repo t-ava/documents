@@ -48,7 +48,7 @@ In practice, since we compute the rewards of a vehicle ride in a machine learnin
 
 Overall, these core components efficiently bring together the off-chain computation and on-chain transactions of our reward system.
 
-# Frontend
+## Frontend
 
 As for the frontend of our platform, we built a web application that implements the core interactions between our platform and mobility users. Essentially, a mobility user can connect to the platform via google oauth authentication, choose a mobility vendor of interest, and make a vehicle rental/return request on which the app server makes appropriate AVA asset transactions. The user can also check of his/her transaction history in the side menu.
 
