@@ -14,7 +14,7 @@ Our main idea is to provide rewards for mobility users that help solve the vehic
 
 On the other hand, mobility operators can benefit from the automatic redistribution process, and even attract new users into the mobility platform as the vehicles become available at lower prices.
 
-As such, our service suggests a solution that can benefit both parties and ultimately aims to platform will help make our future transports more available and sustainable.
+As such, our service suggests a solution that can benefit both parties and ultimately aims to help make our future transports more available and sustainable.
 
 # System Design
 
