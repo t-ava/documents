@@ -1,10 +1,13 @@
-# Requirements
-
+# Clone & Install packages
 ```
 git clone https://github.com/t-ava/tava-frontend.git
 ```
 
-* [nodeJS](https://nodejs.org/en/download/)
+You need [nodeJS](https://nodejs.org/en/download/) and `npm`.
+
+```
+npm install
+```
 
 # Set Hardcoded Factors
 
@@ -24,11 +27,6 @@ in [`app.js`](https://github.com/t-ava/tava-frontend/blob/66a17e550e5ca30b504789
 * For example: 
 ```javascript
 const DNN_SERVER = 'http://satoshi.snu.ac.kr:8327/post';
-```
-
-# Install packages
-```
-npm install
 ```
 
 # Run server
