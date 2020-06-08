@@ -6,7 +6,7 @@
 
 ### Initialize Tava
 
-1. [Run Tava initialize script](./docs/gecko.md#run-tava-initialize-script)
+1. [Run Tava initialize script](./docs/Tava_init.md#run-tava-initialize-script)
 
 ### Run DNN-server
 
