@@ -16,9 +16,10 @@
 
 ### Run Frontend
 
-1. [Set hardcoded factors](./docs/frontend.md#set-hardcoded-factors)
-2. [Install packages](./docs/frontend.md#install-packages)
-3. [Run frontend server](./docs/frontend.md#run-server)
+1. [Cloning](./docs/frontend.md#requirements)
+2. [Set hardcoded factors](./docs/frontend.md#set-hardcoded-factors)
+3. [Install packages](./docs/frontend.md#install-packages)
+4. [Run frontend server](./docs/frontend.md#run-server)
 
 ### Run Simulator
 
