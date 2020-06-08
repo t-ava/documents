@@ -13,7 +13,6 @@
 1. [Clone & Install requirements](./docs/DNN-server.md#clone--install-requirements)
 2. [Training DNN model](./docs/DNN-server.md#training-model)
 3. [Run inference server](./docs/DNN-server.md#run-inference-server)
-4. [Get Tava data](./docs/get_Tava_data.md#get-data-from-ava)
 
 ### Run Frontend
 
