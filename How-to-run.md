@@ -56,20 +56,20 @@ Login process requires Google ID.
 
 ## Click Ditibike
 
-![2](./images/1.png)
+![2](./images/2.png)
 
 In demo, renting Ditibike is provided only.
 
 ## Type Source & Destination
 
-![3](./images/1.png)
+![3](./images/3.png)
 
 10 stations near by destination is shown in the map.
 Check the incentives you can get when you return the device after 1 hour.
 
 ## Rent
 
-![4](./images/1.png)
+![4](./images/4.png)
 
 Press the 'OK' button.
 You can see the "Payment is now completed!" message if the payment is completed successfully on AVA.
@@ -78,14 +78,14 @@ You can see the "Payment is now completed!" message if the payment is completed 
 
 ## Return
 
-![5](./images/1.png)
+![5](./images/5.png)
 
 Press the user icon. Then, press the 'RETURN' button.
 Input the arrival station id (For example, 3413) .
 
 ## Check Incentives
 
-![6](./images/1.png)
+![6](./images/6.png)
 
 After returning process, you can see the fees and incentives.
 * Fees: total rental cost.
