@@ -1,4 +1,9 @@
 # Requirements
+
+```
+git clone https://github.com/t-ava/tava-frontend.git
+```
+
 * [nodeJS](https://nodejs.org/en/download/)
 
 # Set Hardcoded Factors

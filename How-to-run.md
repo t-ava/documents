@@ -10,9 +10,10 @@
 
 ### Run DNN-server
 
-1. [Install requirements](./docs/DNN-server.md#install-requirements)
+1. [Clone & Install requirements](./docs/DNN-server.md#clone--install-requirements)
 2. [Training DNN model](./docs/DNN-server.md#training-model)
 3. [Run inference server](./docs/DNN-server.md#run-inference-server)
+4. [Get Tava data](./docs/get_Tava_data.md#get-data-from-ava)
 
 ### Run Frontend
 
@@ -20,7 +21,13 @@
 2. [Install packages](./docs/frontend.md#install-packages)
 3. [Run frontend server](./docs/frontend.md#run-server)
 
-See details in each repository: [Gecko](https://github.com/t-ava/gecko), [Pyslopes](https://github.com/t-ava/pyslopes), [DNN-server](https://github.com/t-ava/citibike-DNN), and [frontend](https://github.com/t-ava/tava-frontend).
+### Run Simulator
+
+1. [Clone & Install requirements](./docs/simulator.md#clone--install-requirements)
+2. [Run simulator](./docs/simulator.md#run-simulator)
+3. [Visualization](./docs/simulator.md#visualization)
+
+See details in each repository: [Gecko](https://github.com/t-ava/gecko), [Pyslopes](https://github.com/t-ava/pyslopes), [DNN-server](https://github.com/t-ava/citibike-DNN), [frontend](https://github.com/t-ava/tava-frontend), and [simulator](https://github.com/t-ava/tava-simulator).
 
 # Demo
 
