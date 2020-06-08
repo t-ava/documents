@@ -6,6 +6,7 @@ git clone https://github.com/t-ava/tava-frontend.git
 You need [nodeJS](https://nodejs.org/en/download/) and `npm`.
 
 ```
+cd frontend
 npm install
 ```
 
