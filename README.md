@@ -64,4 +64,4 @@ Evaluation with our open-source [prototype simulator](https://github.com/t-ava/t
 
 # Contact
 
-:envelope: lukepark@altair.snu.ac.kr
+:envelope: lukepark327@gmail.com
