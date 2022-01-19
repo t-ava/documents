@@ -52,7 +52,7 @@ Overall, these core components efficiently bring together the off-chain computat
 
 As for the frontend of our platform, we built a web application that implements the core interactions between our platform and mobility users. Essentially, a mobility user can connect to the platform via google oauth authentication, choose a mobility vendor of interest, and make a vehicle rental/return request on which the app server makes appropriate AVA asset transactions. The user can also check of his/her transaction history in the side menu.
 
-We provide the [source code](https://github.com/t-ava/tava-frontend) and a [working prototype](http://lynx.snu.ac.kr:8084/) of the web application publicly. 
+We provide the [source code](https://github.com/t-ava/tava-frontend) of the web application publicly. 
 
 # Proof of Concept
 
